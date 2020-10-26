@@ -1,0 +1,1 @@
+This is simple NLP Project based on text data to fit the model after fitting predict the new message is spam or not.
